@@ -7,5 +7,9 @@
     "dotenv": "^16.0.3",
     "openai": "^4.0.0",
     "whatsapp-web.js": "^1.23.0"
+    "scripts": {
+  "start": "bash start.sh"
+}
+
   }
 }
