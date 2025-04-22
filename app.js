@@ -60,4 +60,5 @@ client.on('message', async message => {
     await message.reply(botMessage);
 });
 
+console.log("🟢 Inicializando WhatsApp...");
 client.initialize();
